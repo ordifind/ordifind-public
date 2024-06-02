@@ -2,5 +2,37 @@
   {
     "id": "dogi",
     "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/dogi.png"
+  },
+  {
+    "id": "$hub",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/$hub.png"
+  },
+  {
+    "id": "dcex",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/dcex.png"
+  },
+  {
+    "id": "pepe",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/pepe.png"
+  },
+  {
+    "id": "dbit",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/dbit.png"
+  },
+  {
+    "id": "oink",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/oink.png"
+  },
+  {
+    "id": "musk",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/musk.png"
+  },
+  {
+    "id": "mmap",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/mmap.png"
+  },
+  {
+    "id": "𝕏",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/𝕏.png"
   }
 ]
