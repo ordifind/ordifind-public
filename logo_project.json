@@ -38,5 +38,9 @@
   {
     "id": "go!!",
     "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/go!!.png"
+  },
+  {
+    "id": "$wif",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/$wif.png"
   }
 ]
