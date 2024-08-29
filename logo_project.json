@@ -42,5 +42,9 @@
   {
     "id": "$wif",
     "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/$wif.png"
+  },
+  {
+    "id": "armz",
+    "logo_src": "https://ordifind.github.io/ordifind-public/images/coin-logo/armz.png"
   }
 ]
