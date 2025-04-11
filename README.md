@@ -100,6 +100,23 @@ Sends Dogecoin to a specified address.
   - A `Promise` that resolves to a `walletResponse` object containing:
     - `txid`: The transaction ID of the completed transaction.
 
+#### `sendDoginals(payload: { inscription_id: string; gas: number; address: string }): Promise<walletResponse<{ txid: string }>>`
+
+Sends Doginals to a specified address.
+
+- **Parameters:**
+
+  - `payload`: An object with the following properties:
+    - `inscription_id`: The inscription id you want to send.
+    - `gas`: The gas fee for the transaction.
+    - `address`: The recipient's wallet address.
+
+- **Returns:**
+  - A `Promise` that resolves to a `walletResponse` object containing:
+    - `txid`: The transaction ID of the completed transaction.
+
+---
+
 ---
 
 #### `signPSBT(payload: { psbt: string; options: options }): Promise<walletResponse<{ hex: string }>>`
